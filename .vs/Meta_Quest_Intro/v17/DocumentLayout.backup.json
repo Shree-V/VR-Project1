@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|c:\\users\\shreenija vadayar\\documents\\meta_quest_intro\\assets\\scripts\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\playershoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\camerareload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerareload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:26:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyShoot.cs",
+              "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\EnemyShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShoot.cs",
+              "ToolTip": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\EnemyShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyShoot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:48:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerShoot2.cs",
+              "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\PlayerShoot2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot2.cs",
+              "ToolTip": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\PlayerShoot2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShoot2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:12:33.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraReload.cs",
+              "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\CameraReload.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraReload.cs",
+              "ToolTip": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\CameraReload.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraReload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:37:48.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
