@@ -28,6 +28,9 @@ public class TargetMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ball"))
         {
             Destroy(gameObject);
+            GameObject.Find("LevelManager").GetComponent<LevelManager>().TargetDestroyed();
         }
+
+
     }
 }
