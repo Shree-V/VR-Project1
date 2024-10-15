@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|c:\\users\\shreenija vadayar\\documents\\meta_quest_intro\\assets\\scripts\\targetmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\TargetMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TargetMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\LevelManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\GameStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\playershoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\EnemyShoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyShoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\PlayerShoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerShoot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\assets\\scripts\\camerareload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7A619-AA65-E290-ABD0-0C68009316FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerareload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\CameraReload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraReload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -67,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GameStart.cs",
               "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\GameStart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameStart.cs",
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
@@ -91,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EnemyShoot.cs",
               "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\EnemyShoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShoot.cs",
@@ -103,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerShoot2.cs",
               "DocumentMoniker": "C:\\Users\\Shreenija Vadayar\\Documents\\Meta_Quest_Intro\\Assets\\Scripts\\PlayerShoot2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot2.cs",
